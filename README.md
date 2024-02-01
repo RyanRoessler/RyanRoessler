@@ -7,7 +7,7 @@
   - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
   - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
 - <b>🧬 Master's Thesis:</b>
-  - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/RyanRoessler/Bioengineering-MS-Thesis) <b>
+  - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis) <b>
 - <b>🧫 Quantitative Biology (UQ-bio Summer School 2022):</b>
   - 
 - <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham</b>
