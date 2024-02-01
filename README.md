@@ -5,6 +5,7 @@
 
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
+  - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
 - <b>🧬 Master's Thesis: Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>🧫 Quantitative Biology (UQ-bio Summer School 2022):</b>
