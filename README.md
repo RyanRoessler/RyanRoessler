@@ -16,8 +16,8 @@
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 
 <h2>📜 Certifications:</h2>
-- <b>[BSL2 Biosafety](https://github.com/RyanRoessler/Certifications/blob/main/BSL2%20Biosafety.pdf)</b>
-- [Fluorescent Imaging]()
+- <b>BSL2 Biosafety: (https://github.com/RyanRoessler/Certifications/blob/main/BSL2%20Biosafety.pdf)</b>
+- <b>Fluorescent Imaging: ()</b>
 - [Basic Research Techniques with Mice]()
 - [Rodent Necropsy]()
 - [Responsible Conduct of Research]()
