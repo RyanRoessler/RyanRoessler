@@ -4,7 +4,7 @@
 <h2>Projects:</h2>
 
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
-  - [Manipulating variable datasets & creating grouped averages for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
+  - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>🧬 Master's Thesis: Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>🧫 Quantitative Biology (UQ-bio Summer School 2022):</b>
