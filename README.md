@@ -12,15 +12,16 @@
   - 
 - <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham:</b>
   - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
-- <b>📈 Data Analysis with Python:</b>
-  - 
+- <b>📈 Data Analysis & Plotting with Python:</b>
+  - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 
 <h2>📜 Certifications:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Biosafety]()
+- [Fluorescent Imaging]()
+- [Basic Research Techniques with Mice]()
+- [Rodent Necropsy]()
+- [Responsible Conduct of Research]()
+- [Diversity, Inclusion & Belonging]()
 
 [linkedin]: https://www.linkedin.com/in/ryan-roessler/
 <!--
