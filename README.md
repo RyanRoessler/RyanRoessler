@@ -11,7 +11,7 @@
 - <b>🧫 Quantitative Biology (UQ-bio Summer School 2022):</b>
   - 
 - <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham</b>
-  - 
+  - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
 - <b>📈 Data Analysis with Python:</b>
   - 
 
