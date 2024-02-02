@@ -8,8 +8,8 @@
   - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
 - <b>🧬 Master's Thesis:</b>
   - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
-- <b>🧫 Quantitative Biology (UQ-bio Summer School 2022):</b>
-  - 
+- <b>🧫 Quantitative Biology:</b>
+  - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
 - <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham:</b>
   - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
 - <b>📈 Data Analysis & Plotting with Python:</b>
