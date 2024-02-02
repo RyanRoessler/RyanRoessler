@@ -1,4 +1,4 @@
-### Hello, world! 👋😃
+### Hello, world! 👋
 <h1>Ryan Roessler:<br/><a href="https://www.linkedin.com/in/ryan-roessler/">Bioengineer & Physicist 🧬⚛️</a></h1>
 
 <h2>Projects:</h2>
