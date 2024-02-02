@@ -16,6 +16,7 @@
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 
 <h2>📜 Certifications:</h2>
+
 - <b>[Certifications](https://github.com/RyanRoessler/Certifications)</b>
   - BSL2 Biosafety
   - Fluorescent Imaging
