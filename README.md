@@ -16,12 +16,13 @@
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 
 <h2>📜 Certifications:</h2>
-- [BSL2 Biosafety](https://github.com/RyanRoessler/Certifications/blob/main/BSL2%20Biosafety.pdf)
-- [Fluorescent Imaging](https://github.com/RyanRoessler/Certifications/blob/main/Fluorescent%20imaging%20certificate.png)
-- [Basic Research Techniques with Mice](https://github.com/RyanRoessler/Certifications/blob/main/Basic%20Research%20Techniques%20with%20Mice.pdf)
-- [Rodent Necropsy](https://github.com/RyanRoessler/Certifications/blob/main/Rodent%20Necropsy.pdf)
-- [Responsible Conduct of Research](https://github.com/RyanRoessler/Certifications/blob/main/Responsible%20Conduct%20of%20Research%20(RCR)%20-%20citiCompletionCertificate_11777826_52952013.pdf)
-- [Diversity, Inclusion & Belonging](https://github.com/RyanRoessler/Certifications/blob/main/Diversity%2C%20Inclusion%20and%20Belonging%20-%20certificate-of-completion-long-title.pdf)
+- <b>Certifications</b>
+  - [BSL2 Biosafety](https://github.com/RyanRoessler/Certifications/blob/main/BSL2%20Biosafety.pdf)
+  - [Fluorescent Imaging](https://github.com/RyanRoessler/Certifications/blob/main/Fluorescent%20imaging%20certificate.png)
+  - [Basic Research Techniques with Mice](https://github.com/RyanRoessler/Certifications/blob/main/Basic%20Research%20Techniques%20with%20Mice.pdf)
+  - [Rodent Necropsy](https://github.com/RyanRoessler/Certifications/blob/main/Rodent%20Necropsy.pdf)
+  - [Responsible Conduct of Research](https://github.com/RyanRoessler/Certifications/blob/main/Responsible%20Conduct%20of%20Research%20(RCR)%20-%20citiCompletionCertificate_11777826_52952013.pdf)
+  - [Diversity, Inclusion & Belonging](https://github.com/RyanRoessler/Certifications/blob/main/Diversity%2C%20Inclusion%20and%20Belonging%20-%20certificate-of-completion-long-title.pdf)
 
 [linkedin]: https://www.linkedin.com/in/ryan-roessler/
 <!--
