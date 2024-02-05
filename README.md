@@ -2,11 +2,12 @@
 <h1>Ryan Roessler:<br/><a href="https://www.linkedin.com/in/ryan-roessler/">Bioengineer & Physicist 🧬⚛️</a></h1>
 
 <h2>Projects:</h2>
-
+- <b>🧬 Bioinformatics:</b>
+  - [UCSD - "Finding Hidden Messages in DNA"](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
   - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
-- <b>🧬 Master's Thesis:</b>
+- <b>🧬👨‍🔬 Master's Thesis:</b>
   - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
 - <b>🧫 Quantitative Biology Workshop:</b>
   - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
