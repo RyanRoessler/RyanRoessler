@@ -2,6 +2,7 @@
 <h1>Ryan Roessler:<br/><a href="https://www.linkedin.com/in/ryan-roessler/">Bioengineer & Physicist 🧬⚛️</a></h1>
 
 <h2>Projects:</h2>
+
 - <b>🧬 Bioinformatics:</b>
   - [UCSD - "Finding Hidden Messages in DNA"](https://github.com/RyanRoessler/Bioinformatics)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
