@@ -5,6 +5,8 @@
 
 - <b>🧬 Bioinformatics:</b>
   - [UCSD - "Finding Hidden Messages in DNA"](https://github.com/RyanRoessler/Bioinformatics)
+- <b>🧬 Cloud Computing with AWS:</b>
+  - [Coursera - "DevOps on AWS"](https://github.com/RyanRoessler/Bioinformatics)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
   - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
