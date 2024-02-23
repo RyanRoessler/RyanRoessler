@@ -9,9 +9,9 @@
   - ["DevOps on AWS: Code, Build, and Test" - course provided by AWS](https://github.com/RyanRoessler/Cloud-Computing-with-AWS)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
-  - [Protein Quantification & Linearity Analysis](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
+  - [Statistical Analysis of Oncoprotein Quantification](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
 - <b>🧬👨‍🔬 Master's Thesis:</b>
-  - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
+  - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells" - CSU, Biomedical Engineering](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
 - <b>🧫 Quantitative Biology Workshop:</b>
   - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
 - <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham:</b>
