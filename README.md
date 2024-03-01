@@ -4,7 +4,7 @@
 <h2>Projects:</h2>
 
 - <b>🧬 Bioinformatics:</b>
-  - ["Finding Hidden Messages in DNA (Bioinformatics I)" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
+  - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>☁️💻 Cloud Computing & IT with AWS:</b>
   - ["DevOps on AWS: Code, Build, and Test" - course provided by AWS](https://github.com/RyanRoessler/Cloud-Computing-with-AWS)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
