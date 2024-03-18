@@ -4,18 +4,18 @@
 <h2>Projects:</h2>
 
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
-  - [Statistical Analysis of Oncoprotein Quantification](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
-  - [Manipulating pharmacology datasets for visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
-- <b>🧬👨‍🔬 Master's Thesis:</b>
-  - ["Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells" - CSU, Biomedical Engineering](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
+  - [Statistical Analysis of Immunoassay Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
+  - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
+- <b>🧬👨‍🔬 M.S. in Bioengineering - Colorado State University, School of Biomedical Engineering:</b>
+  - [Thesis: "Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
 - <b>🧬 Bioinformatics:</b>
   - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>☁️💻 Cloud Computing & IT with AWS:</b>
   - ["DevOps on AWS: Code, Build, and Test" - course provided by AWS](https://github.com/RyanRoessler/Cloud-Computing-with-AWS)
+- <b>👨‍🔬 REU Project: UAB - Center for Nanoscale Materials & Biointegration:</b>
+  - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
 - <b>🧫 Quantitative Biology Workshop:</b>
   - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
-- <b>👨‍🔬 REU Project: Center for Nanoscale Materials & Biointegration - University of Alabama at Birmingham:</b>
-  - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
 - <b>📈 Data Analysis & Plotting with Python:</b>
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 
