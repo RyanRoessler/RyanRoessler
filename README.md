@@ -12,7 +12,7 @@
   - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>☁️💻 Cloud Computing & IT with AWS:</b>
   - ["DevOps on AWS: Code, Build, and Test" - course provided by AWS](https://github.com/RyanRoessler/Cloud-Computing-with-AWS)
-- <b>👨‍🔬 REU Project: UAB - Center for Nanoscale Materials & Biointegration:</b>
+- <b>👨‍🔬 REU Project: UAB, Center for Nanoscale Materials & Biointegration:</b>
   - ["3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)"](https://github.com/RyanRoessler/REU-Center-for-Nanoscale-Materials-Biointegration)
 - <b>🧫 Quantitative Biology Workshop:</b>
   - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
