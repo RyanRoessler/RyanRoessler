@@ -23,6 +23,7 @@
 
 - <b>[Certifications](https://github.com/RyanRoessler/Certifications)</b>
   - AWS Cloud Technical Essentials
+  - Docker Essentials & Building a Containerized Web Application
   - BSL2 Biosafety
   - Fluorescent Imaging
   - Basic Research Techniques with Mice
