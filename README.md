@@ -18,6 +18,7 @@
   - [UQ-bio Summer School 2022](https://github.com/RyanRoessler/Quantitative-Biology-UQ-bio)
 - <b>📈 Data Analysis & Plotting with Python:</b>
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
+- <b> [Survival Analysis of the Radioactive Decay of Radon Gas](https://github.com/RyanRoessler/Survival-Analysis-of-Radon-Decay)
 
 <h2>📜 Certifications:</h2>
 
