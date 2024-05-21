@@ -3,13 +3,13 @@
 
 <h2>Projects:</h2>
 
+- <b>🧬 Bioinformatics:</b>
+  - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Statistical Analysis of Immunoassay Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
   - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>🧬👨‍🔬 M.S. in Bioengineering - Colorado State University, School of Biomedical Engineering:</b>
   - [Thesis: "Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
-- <b>🧬 Bioinformatics:</b>
-  - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>☁️💻 Cloud Computing & IT with AWS:</b>
   - ["DevOps on AWS: Code, Build, and Test" - course provided by AWS](https://github.com/RyanRoessler/Cloud-Computing-with-AWS)
 - <b>👨‍🔬 REU Project: UAB, Center for Nanoscale Materials & Biointegration:</b>
