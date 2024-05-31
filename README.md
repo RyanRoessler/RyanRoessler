@@ -6,7 +6,7 @@
 - <b>🧬 Bioinformatics:</b>
   - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
-  - [Statistical Analysis/Plotting of High-Throughput Automated Western Blot Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
+  - [Statistical Analysis of High-Throughput Automated Western Blot Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
   - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>🧬👨‍🔬 M.S. in Bioengineering - Colorado State University, School of Biomedical Engineering:</b>
   - [Thesis: "Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
