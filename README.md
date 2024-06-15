@@ -4,7 +4,7 @@
 <h2>Projects:</h2>
 
 - <b>🧬 Bioinformatics:</b>
-  - ["Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD](https://github.com/RyanRoessler/Bioinformatics)
+  - [My Bioinformatics codebase (includes programming answers to "Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD)](https://github.com/RyanRoessler/Bioinformatics-Codebase)
 - <b>💊 Scientific Computing Projects for Biopharma startup:</b>
   - [Statistical Analysis of High-Throughput Automated Western Blot Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
   - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
