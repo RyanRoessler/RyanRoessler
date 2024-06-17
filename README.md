@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 <h1>Ryan Roessler:<br/><a href="https://www.linkedin.com/in/ryan-roessler/">Bioengineer & Physicist 🧬⚛️</a></h1>
 
-<h2>Projects:</h2>
+<h2>Work Projects:</h2>
 
 - <b>🧬 Bioinformatics:</b>
   - [My Bioinformatics codebase (includes programming answers to "Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD)](https://github.com/RyanRoessler/Bioinformatics-Codebase)
@@ -19,6 +19,11 @@
 - <b>📈 Data Analysis & Plotting with Python:</b>
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 - <b> [Survival Analysis of the Radioactive Decay of Radon Gas](https://github.com/RyanRoessler/Survival-Analysis-of-Radon-Decay)
+
+<h2>Personal Projects:</h2>
+
+- <b>📝 Financial Analysis of Bank Statement Transactions:</b>
+  - [My Bioinformatics codebase (includes programming answers to "Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD)](https://github.com/RyanRoessler/Bioinformatics-Codebase)
 
 <h2>📜 Certifications:</h2>
 
