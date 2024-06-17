@@ -23,7 +23,7 @@
 <h2>Personal Projects:</h2>
 
 - <b>📝 Financial Analysis of Bank Statement Transactions:</b>
-  - [Analysis of Transactions from Bank Statements](https://github.com/RyanRoessler/Analyze-Bank-Statement-Purchases)
+  - [Financial Analysis of Bank Statement Transactions](https://github.com/RyanRoessler/Analyze-Bank-Statement-Purchases)
 
 <h2>📜 Certifications:</h2>
 
