@@ -27,7 +27,7 @@
 
 <h2>📜 Certificates:</h2>
 
-- <b>[Certifications / Certificates](https://github.com/RyanRoessler/Certifications)</b>
+- <b>[Certificates](https://github.com/RyanRoessler/Certifications)</b>
   - Bioinformatics I: Finding Hidden Messages in DNA (UCSD)
   - AWS Cloud Technical Essentials
   - Docker Essentials & Building a Containerized Web Application
