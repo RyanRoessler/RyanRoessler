@@ -23,7 +23,7 @@
 <h2>Personal Projects:</h2>
 
 - <b>📝 Financial Analysis of Bank Statement Transactions:</b>
-  - [My Bioinformatics codebase (includes programming answers to "Bioinformatics I: Finding Hidden Messages in DNA" - course provided by UCSD)](https://github.com/RyanRoessler/Bioinformatics-Codebase)
+  - [Analysis of Transactions from Bank Statements](https://github.com/RyanRoessler/Analyze-Bank-Statement-Purchases)
 
 <h2>📜 Certifications:</h2>
 
