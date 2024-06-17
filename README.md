@@ -25,7 +25,7 @@
 - <b>📝 Financial Analysis of Bank Statement Transactions:</b>
   - [Financial Analysis of Bank Statement Transactions](https://github.com/RyanRoessler/Analyze-Bank-Statement-Purchases)
 
-<h2>📜 Certifications / Certificates:</h2>
+<h2>📜 Certificates:</h2>
 
 - <b>[Certifications / Certificates](https://github.com/RyanRoessler/Certifications)</b>
   - Bioinformatics I: Finding Hidden Messages in DNA (UCSD)
