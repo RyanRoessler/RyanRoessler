@@ -40,9 +40,6 @@
   - Responsible Conduct of Research
   - Diversity, Inclusion & Belonging
  
-<h2>Hobbies:</h2>
-
-- <b>[📸 Photography](https://sites.google.com/view/ryanroesslerphotography/work)</b>
 
 [linkedin]: https://www.linkedin.com/in/ryan-roessler/   
 [Ryan Roessler Photography]: https://sites.google.com/view/ryanroesslerphotography/work
