@@ -9,7 +9,7 @@
     - Includes other functions/algorithms for handling NGS data, sequence alignment, etc.
 - <b>💊 Biopharmaceutical Computing Projects:</b>
   - [Statistical Analysis of High-Throughput Automated Western Blot Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
-  - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
+  - [Preclinical Pharmacology Data Analysis for Automated Ingestion & Visualization](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>🧬👨‍🔬 M.S. in Bioengineering - Colorado State University, School of Biomedical Engineering:</b>
   - [Thesis: "Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"](https://github.com/RyanRoessler/Bioengineering-MS-Thesis)
 - <b>☁️💻 Cloud Computing & IT with AWS:</b>
