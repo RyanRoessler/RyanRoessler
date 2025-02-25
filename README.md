@@ -7,7 +7,7 @@
   - [My bioinformatics codebase](https://github.com/RyanRoessler/Bioinformatics-Codebase)
     - Includes programming answers to "Bioinformatics I: Finding Hidden Messages in DNA" (course provided by UCSD)
     - Includes other functions/algorithms for handling NGS data, sequence alignment, etc.
-- <b>💊 Scientific Computing Projects for Biopharma startup:</b>
+- <b>💊 Biopharmaceutical Computing Projects:</b>
   - [Statistical Analysis of High-Throughput Automated Western Blot Data](https://github.com/RyanRoessler/Protein-Quantification-Linearity-Analysis)
   - [Manipulating Pharmacological Datasets for Visualization in Spotfire](https://github.com/RyanRoessler/-Data-Manipulation-for-Visualization-Plotting-in-Spotfire)
 - <b>🧬👨‍🔬 M.S. in Bioengineering - Colorado State University, School of Biomedical Engineering:</b>
