@@ -5,7 +5,6 @@
     Data Scientist in Bioinformatics 🧬💻
   </a>
 </h1>
-#### Background in Physics
 
 <h2>Work Projects:</h2>
 
