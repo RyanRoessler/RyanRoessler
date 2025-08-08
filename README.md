@@ -6,7 +6,7 @@
   </a>
 </h2>
 
-<h2>Work Projects:</h2>
+<h3>Work Projects:</h3>
 
 - <b>🧬 Bioinformatics:</b>
   - [My bioinformatics codebase](https://github.com/RyanRoessler/Bioinformatics-Codebase)
@@ -27,12 +27,12 @@
   - [Analysis & Plotting with Python](https://github.com/RyanRoessler/Analysis-Plotting-with-Python)
 - <b> [Survival Analysis of the Radioactive Decay of Radon Gas](https://github.com/RyanRoessler/Survival-Analysis-of-Radon-Decay)
 
-<h2>Personal Projects:</h2>
+<h3>Personal Projects:</h3>
 
 - <b>📝 Financial Analysis of Bank Statement Transactions:</b>
   - [Financial Analysis of Bank Statement Transactions](https://github.com/RyanRoessler/Analyze-Bank-Statement-Purchases)
 
-<h2>📜 Certificates:</h2>
+<h3>📜 Certificates:</h3>
 
 - <b>[Certificates](https://github.com/RyanRoessler/Certifications)</b>
   - Bioinformatics I: Finding Hidden Messages in DNA (UCSD)
