@@ -4,12 +4,8 @@
   <a href="https://www.linkedin.com/in/ryan-roessler/">
     Data Scientist in Bioinformatics 🧬💻
   </a>
-  <br/>
-  <span style="font-size: 0.5em; font-weight: normal;">
-    Background in Physics
-  </span>
 </h1>
-
+#### Background in Physics
 
 <h2>Work Projects:</h2>
 
