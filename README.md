@@ -5,7 +5,7 @@
     Data Scientist in Bioinformatics 🧬💻
   </a>
   <br/>
-  <span style="font-size: 0.7em; font-weight: normal;">
+  <span style="font-size: 0.5em; font-weight: normal;">
     Background in Physics
   </span>
 </h1>
