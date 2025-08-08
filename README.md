@@ -2,7 +2,7 @@
 <h1>
   Ryan Roessler:<br/>
   <a href="https://www.linkedin.com/in/ryan-roessler/">
-    Data Scientist in Bioinformatics 🧬💻
+    Data Scientist in Bioinformatics 🧬💻 | B.S. in Physics
   </a>
 </h1>
 
