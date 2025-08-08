@@ -1,5 +1,15 @@
 ### Hello, world! 👋
-<h1>Ryan Roessler:<br/><a href="https://www.linkedin.com/in/ryan-roessler/">Data Scientist in Bioinformatics 🧬💻</a></h1>
+<h1>
+  Ryan Roessler:<br/>
+  <a href="https://www.linkedin.com/in/ryan-roessler/">
+    Data Scientist in Bioinformatics 🧬💻
+  </a>
+  <br/>
+  <span style="font-size: 0.7em; font-weight: normal;">
+    Background in Physics
+  </span>
+</h1>
+
 
 <h2>Work Projects:</h2>
 
