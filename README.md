@@ -1,10 +1,10 @@
 ### Hello, world! 👋
-<h1>
+<h2>
   Ryan Roessler, M.S.<br/>
   <a href="https://www.linkedin.com/in/ryan-roessler/">
     Data Scientist in Bioinformatics 🧬💻 | B.S. in Physics
   </a>
-</h1>
+</h2>
 
 <h2>Work Projects:</h2>
 
